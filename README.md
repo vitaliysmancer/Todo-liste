@@ -54,3 +54,5 @@ TODO LISTE
 ## Autor
 
 Erstellt als erstes Projekt beim Lernen von ANSI C.
+
+Das Projekt wurde von Vitalijs Smancers entwickelt.
