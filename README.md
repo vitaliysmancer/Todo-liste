@@ -20,15 +20,14 @@ Das Programm ermöglicht es, Aufgaben direkt im Terminal zu erstellen, anzuzeige
 
 ## Projektstruktur
 
-´´´
+```
 c-todo-list
 │
 ├── main.c
 ├── aufgaben.c
 ├── aufgaben.h
 ├── aufgaben.txt
-
-´´´
+```
 
 ## Kompilieren
 
